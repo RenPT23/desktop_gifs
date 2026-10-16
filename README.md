@@ -2,18 +2,18 @@
   <img src="extension/icons/icon-128.png" width="96" height="96" alt="Desktop GIFs icon">
 </p>
 
-<h1 align="center">Desktop GIFs</h1>
+<h1 align="center">Desktop GIFs (Ren's Fork)</h1>
 
 <p align="center">
   <strong>Post GIFs in YouTube comments and replies from a desktop browser.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rayytor/desktop_gifs/releases/latest"><img src="https://img.shields.io/github/manifest-json/v/rayytor/desktop_gifs?filename=extension%2Fmanifest.json&label=version&color=ff0033" alt="Version"></a>
+  <a href="https://github.com/RenPT23/desktop_gifs/releases/latest"><img src="https://img.shields.io/github/manifest-json/v/RenPT23/desktop_gifs?filename=extension%2Fmanifest.json&label=version&color=ff0033" alt="Version"></a>
   <img src="https://img.shields.io/badge/Chrome-121%2B-4285F4?logo=googlechrome&logoColor=white" alt="Chrome 121 or newer">
   <img src="https://img.shields.io/badge/Firefox-140%2B-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox 140 or newer">
   <img src="https://img.shields.io/badge/Manifest-V3-34A853" alt="Manifest V3">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/rayytor/desktop_gifs" alt="License: GPL-3.0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/RenPT23/desktop_gifs" alt="License: GPL-3.0"></a>
 </p>
 
 <p align="center">
